@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+TestOpsDecor.egg-info/PKG-INFO
+TestOpsDecor.egg-info/SOURCES.txt
+TestOpsDecor.egg-info/dependency_links.txt
+TestOpsDecor.egg-info/requires.txt
+TestOpsDecor.egg-info/top_level.txt
+custom_decorator/__init__.py
+custom_decorator/decorators.py
+tests/__init__.py
+tests/test_decorator.py
